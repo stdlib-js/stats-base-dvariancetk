@@ -1,6 +1,6 @@
 {
   "name": "@stdlib/stats-base-dvariancetk",
-  "version": "0.0.8",
+  "version": "0.0.9",
   "description": "Calculate the variance of a double-precision floating-point strided array using a one-pass textbook algorithm.",
   "license": "Apache-2.0",
   "author": {
