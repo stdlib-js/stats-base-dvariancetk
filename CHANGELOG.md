@@ -32,6 +32,7 @@
 
 <details>
 
+-   [`e61abc7`](https://github.com/stdlib-js/stdlib/commit/e61abc75775756383a20985c7166f85149ee0b68) - **refactor:** update paths _(by Aayush Khanna)_
 -   [`2515c03`](https://github.com/stdlib-js/stdlib/commit/2515c03c11d75901db325c3d2d417fba4073110a) - **refactor:** update paths _(by Aayush Khanna)_
 -   [`30114f2`](https://github.com/stdlib-js/stdlib/commit/30114f2fc3dc343319fe3a8d44ca022a7c4f6750) - **refactor:** update paths _(by Aayush Khanna)_
 -   [`b00d9f1`](https://github.com/stdlib-js/stdlib/commit/b00d9f1064701187f48a05b9753e74ae835b0726) - **docs:** fix typing error in `repl.txt` of `stats/base/*` [(#4750)](https://github.com/stdlib-js/stdlib/pull/4750) _(by Aayush Khanna)_
